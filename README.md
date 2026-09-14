@@ -197,6 +197,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Developer
 
-Built with ❤️ by **Divyanshu**
+Built with ❤️ by **Divyanshu, Ayesha and Astha**
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
